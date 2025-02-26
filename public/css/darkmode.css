@@ -1,0 +1,47 @@
+/* darkmode.css */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  .form-signin {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    padding: 2rem;
+  }
+  
+  .form-signin .form-control {
+    background-color: #333;
+    border-color: #555;
+    color: #e0e0e0;
+  }
+  
+  .form-signin .form-control:focus {
+    background-color: #444;
+    border-color: #888;
+    color: #fff;
+  }
+  
+  .btn-outline-primary {
+    color: #e0e0e0;
+    border-color: #888;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #333;
+    color: #fff;
+    border-color: #ccc;
+  }
+  
+  .text-sm {
+    color: #e0e0e0;
+  }
+  
+  .text-sm a {
+    color: #4f99e7;
+  }
+  
+  .text-sm a:hover {
+    text-decoration: underline;
+  }
+  
