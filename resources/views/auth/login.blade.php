@@ -38,7 +38,7 @@
               </span>
             @enderror
           </div>
-
+a
           <!-- Campo de reCAPTCHA -->
           <div class="form-floating mb-3 position-relative">
             <div class="g-recaptcha" data-sitekey="{{ config('services.recaptcha.site_key') }}" required></div>
